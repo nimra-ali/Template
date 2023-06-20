@@ -296,7 +296,7 @@ h3{
   background: none;
 }
 
-.julia1 {
+.cliet1 {
   /* position: absolute; */
   /* top: 50px; */
   /* top: 40px; */
@@ -389,8 +389,6 @@ h3{
   justify-content: space-evenly;
   align-items: center;
   flex-wrap: wrap;
-
-
 }
 .first1{
   margin-top: 50px;
@@ -538,6 +536,4 @@ h3{
       margin-top: 50px;
       /* font-size: 20%; */
   }
-
-  
 }
